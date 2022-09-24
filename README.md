@@ -1,1 +1,1 @@
-# vs-folder
+# java-scripts practices
