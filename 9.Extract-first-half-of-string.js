@@ -2,13 +2,14 @@
 // Extract the first half a
 // Return the result
 
-function
-myFunction
-(
-a
-)
-{
-let text_length = a.length
-let first_half = round(text_length/2)
-return a.slice(0, first_half)
-}
+function myFunction(a) {
+   
+    return a.slice(0, a.length/2)
+ }
+
+
+
+
+x="fhgcgufccj"
+let len = x.length/2
+console.log(x.slice(len))
